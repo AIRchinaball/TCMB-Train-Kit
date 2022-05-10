@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Made by TCMB Project",
+        "name": "TCMB デフォルト車両 TypeA",
+        "uuid": "5a6635ce-0d8d-4795-9a48-1d4a13ac7eef",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "4eefdfba-d13a-4613-98e0-5dff90fc8091",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+        "uuid": "ebcb0b6f-780b-462f-bcbd-cc26a373ca51",
+        "version": [1, 0, 0]
+        }
+    ]
+}

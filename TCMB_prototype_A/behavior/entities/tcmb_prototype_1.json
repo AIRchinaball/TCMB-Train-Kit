@@ -1,0 +1,37 @@
+{
+    "format_version": "1.18.0",
+    "minecraft:entity": {
+        "description": {
+            "identifier": "tcmb_prototype:car1",
+            "is_spawnable": false,
+            "is_summonable": true,
+            "is_experimental": false
+        },
+        "minecraft:nameable": {},
+            "minecraft:type_family": {
+                "family": [
+                    "tcmb_prototype"
+                ]
+            },
+            "minecraft:scale": {
+                "value": 1
+            },
+            "minecraft:fall_damage": {
+                "value": 0
+            },
+            "minecraft:jump.static": {},
+            "minecraft:behavior.float": {
+                "priority": 0
+            },
+            "minecraft:knockback_resistance": {
+                "value": 1
+            },
+            "minecraft:physics": {},
+            "minecraft:rail_movement": {},
+
+            
+            "minecraft:rail_sensor": {
+                "eject_on_activate": true
+            }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "format_version": "1.9.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "tcmb_prototype:car1",
+            "materials": {
+                "default": "phantom",
+                "invisible": "phantom_invisible",
+                "glass": "slime_outer"
+            },
+            "textures": {
+                "default": "textures/entity/tcmb_prototype"
+            },
+            "geometry": {
+                "default": "geometry.tcmb_prototype_1",
+                "glass": "geometry.tcmb_prototype_1_glass"
+            },
+            "animations": {
+                "open_a" : "animation.tcmb_prototype_1.open_a",
+                "close_a" : "animation.tcmb_prototype_1.close_a"
+            },
+            "animation_controllers": [
+                {"tcmb_prototype_maku_controller": "controller.animation.tcmb_prototype.maku"},
+                {"tcmb_prototype_door_controller": "controller.animation.tcmb_prototype.door"},
+                {"tcmb_prototype_speed_controller": "controller.animation.tcmb_prototype.speed"},
+                {"tcmb_prototype_wiper_controller": "controller.animation.tcmb_prototype.wiper"}
+            ],
+            "render_controllers": [
+                "controller.render.phantom",
+                "controller.render.glass"
+            ]
+        }
+    }
+}
