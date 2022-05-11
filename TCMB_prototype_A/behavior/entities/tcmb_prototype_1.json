@@ -7,31 +7,31 @@
             "is_summonable": true,
             "is_experimental": false
         },
-        "minecraft:nameable": {},
+        "components": {
+            "minecraft:nameable": {},
             "minecraft:type_family": {
-                "family": [
-                    "tcmb_prototype"
-                ]
+               "family": [
+                   "tcmb_prototype"
+               ]
             },
-            "minecraft:scale": {
-                "value": 1
+           "minecraft:collision_box":{
+               "width":0,"height":0
+            },  
+           "minecraft:scale":{
+               "value":1
             },
-            "minecraft:fall_damage": {
-                "value": 0
+           "minecraft:fall_damage":{
+               "value":0
             },
-            "minecraft:jump.static": {},
-            "minecraft:behavior.float": {
-                "priority": 0
+           "minecraft:jump.static":{
             },
-            "minecraft:knockback_resistance": {
-                "value": 1
+           "minecraft:behavior.float":{
+               "priority":0
             },
-            "minecraft:physics": {},
-            "minecraft:rail_movement": {},
-
-            
-            "minecraft:rail_sensor": {
-                "eject_on_activate": true
-            }
+           "minecraft:knockback_resistance":{
+               "value":1
+            },
+           "minecraft:physics":{}
+        }
     }
 }
