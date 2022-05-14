@@ -22,3 +22,4 @@ Source code:https://github.com/TCMB-Project/TCMB-Train-Kit/blob/main/LICENSE
 # 謝辞
 モデル制作協力者
 - Sumash1692様　https://twitter.com/Arige88150964
+- sorr様　https://twitter.com/ShimadaSorato
