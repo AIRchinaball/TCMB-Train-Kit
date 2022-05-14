@@ -5,7 +5,6 @@
             "identifier": "tcmb_prototype:car1",
             "materials": {
                 "default": "phantom",
-                "invisible": "phantom_invisible",
                 "glass": "slime_outer"
             },
             "textures": {
@@ -17,7 +16,15 @@
             },
             "animations": {
                 "open_a" : "animation.tcmb_prototype_1.open_a",
-                "close_a" : "animation.tcmb_prototype_1.close_a"
+                "close_a" : "animation.tcmb_prototype_1.close_a",
+                "oneman_open_a" : "animation.tcmb_prototype_1.oneman_open_a",
+                "oneman_close_a" : "animation.tcmb_prototype_1.oneman_close_a",
+                "open_b" : "animation.tcmb_prototype_1.open_b",
+                "close_b" : "animation.tcmb_prototype_1.close_b",
+                "oneman_open_b" : "animation.tcmb_prototype_1.oneman_open_b",
+                "oneman_close_b" : "animation.tcmb_prototype_1.oneman_close_b",
+                "open_all" : "animation.tcmb_prototype_1.open_all",
+                "close_all" : "animation.tcmb_prototype_1.close_all"
             },
             "animation_controllers": [
                 {"tcmb_prototype_maku_controller": "controller.animation.tcmb_prototype.maku"},

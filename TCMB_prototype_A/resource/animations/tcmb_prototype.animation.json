@@ -23,19 +23,58 @@
 		},
 		"animation.tcmb_prototype_1.close_a": {
 			"loop": true,
-			"animation_length": 2.16667,
+			"animation_length": 2,
 			"bones": {
 				"a_left": {
 					"position": {
 						"0.0": [0, 0, 12],
 						"1.5833": [0, 0, 1],
-						"2.1667": [0, 0, 0]
+						"2.0": [0, 0, 0]
 					}
 				},
 				"a_right": {
 					"position": {
 						"0.0": [0, 0, -12],
 						"1.5833": [0, 0, -1],
+						"2.0": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.oneman_open_a": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 2.1667,
+			"bones": {
+				"oneman_a_r": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.5833": [0, 0, -10],
+						"2.1667": [0, 0, -12]
+					}
+				},
+				"oneman_a_l": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.5833": [0, 0, 10],
+						"2.1667": [0, 0, 12]
+					}
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.oneman_close_a": {
+			"animation_length": 2,
+			"bones": {
+				"oneman_a_r": {
+					"position": {
+						"0.0": [0, 0, -12],
+						"1.5833": [0, 0, -1],
+						"2.0": [0, 0, 0]
+					}
+				},
+				"oneman_a_l": {
+					"position": {
+						"0.0": [0, 0, 12],
+						"1.5833": [0, 0, 1],
 						"2.0": [0, 0, 0]
 					}
 				}
@@ -62,13 +101,119 @@
 			}
 		},
 		"animation.tcmb_prototype_1.close_b": {
-			"animation_length": 2.16667,
+			"animation_length": 2,
 			"bones": {
 				"b_left": {
 					"position": {
 						"0.0": [0, 0, 12],
 						"1.5833": [0, 0, 1],
-						"2.1667": [0, 0, 0]
+						"2.0": [0, 0, 0]
+					}
+				},
+				"b_right": {
+					"position": {
+						"0.0": [0, 0, -12],
+						"1.5833": [0, 0, -1],
+						"2.0": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.oneman_open_b": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 2.16667,
+			"bones": {
+				"oneman_b_l": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.5833": [0, 0, 10],
+						"2.1667": [0, 0, 12]
+					}
+				},
+				"oneman_b_r": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.5833": [0, 0, -10],
+						"2.1667": [0, 0, -12]
+					}
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.oneman_close_b": {
+			"animation_length": 2,
+			"bones": {
+				"oneman_b_r": {
+					"position": {
+						"0.0": [0, 0, -12],
+						"1.5833": [0, 0, -1],
+						"2.0": [0, 0, 0]
+					}
+				},
+				"oneman_b_l": {
+					"position": {
+						"0.0": [0, 0, 12],
+						"1.5833": [0, 0, 1],
+						"2.0": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.open_all": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 2.16667,
+			"bones": {
+				"a_left": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.5833": [0, 0, 10],
+						"2.1667": [0, 0, 12]
+					}
+				},
+				"a_right": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.5833": [0, 0, -10],
+						"2.1667": [0, 0, -12]
+					}
+				},
+				"b_left": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.5833": [0, 0, 10],
+						"2.1667": [0, 0, 12]
+					}
+				},
+				"b_right": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.5833": [0, 0, -10],
+						"2.1667": [0, 0, -12]
+					}
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.close_all": {
+			"animation_length": 2,
+			"bones": {
+				"a_left": {
+					"position": {
+						"0.0": [0, 0, 12],
+						"1.5833": [0, 0, 1],
+						"2.0": [0, 0, 0]
+					}
+				},
+				"a_right": {
+					"position": {
+						"0.0": [0, 0, -12],
+						"1.5833": [0, 0, -1],
+						"2.0": [0, 0, 0]
+					}
+				},
+				"b_left": {
+					"position": {
+						"0.0": [0, 0, 12],
+						"1.5833": [0, 0, 1],
+						"2.0": [0, 0, 0]
 					}
 				},
 				"b_right": {
