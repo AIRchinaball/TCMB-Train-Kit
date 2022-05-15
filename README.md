@@ -7,7 +7,7 @@ TCMB Train KitはMinecraft 統合版のための鉄道アドオン"TCMB"に車�
 - オープンソース
 - MCAとの高い互換性 (変換ツール有)
 # 規約
-TCMBはMITライセンスが適用されます。使用条件等に関しては、[LICENSE](https://github.com/TCMB-Project/TCMB-Train-Kit/blob/main/LICENSE)をご覧ください。
+TCMB Train KitはMITライセンスが適用されます。使用条件等に関しては、[LICENSE](https://github.com/TCMB-Project/TCMB-Train-Kit/blob/main/LICENSE)をご覧ください。
 
 サーバーに入れる場合はライセンス表記は任意です。
 表記したい場合は、
