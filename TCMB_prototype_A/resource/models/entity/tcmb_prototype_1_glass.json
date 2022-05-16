@@ -153,7 +153,7 @@
 					]
 				},
 				{
-					"name": "oneman_l",
+					"name": "oneman_a_l",
 					"parent": "a_left",
 					"pivot": [0, 0, 0],
 					"cubes": [
@@ -215,7 +215,7 @@
 					]
 				},
 				{
-					"name": "oneman_r",
+					"name": "oneman_a_r",
 					"parent": "a_right",
 					"pivot": [0, 0, 0],
 					"cubes": [
