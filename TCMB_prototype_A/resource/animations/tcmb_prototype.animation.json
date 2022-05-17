@@ -18,6 +18,12 @@
 						"1.5833": [0, 0, -10],
 						"2.1667": [0, 0, -12]
 					}
+				},
+				"door_off": {
+					"position": [-1, 0, 0]
+				},
+				"door_on": {
+					"position": [1, 0, 0]
 				}
 			}
 		},
@@ -38,6 +44,12 @@
 						"1.5833": [0, 0, -1],
 						"2.0": [0, 0, 0]
 					}
+				},
+				"door_off": {
+					"position": [-1, 0, 0]
+				},
+				"door_on": {
+					"position": [1, 0, 0]
 				}
 			}
 		},
@@ -58,6 +70,12 @@
 						"1.5833": [0, 0, 10],
 						"2.1667": [0, 0, 12]
 					}
+				},
+				"door_off": {
+					"position": [-1, 0, 0]
+				},
+				"door_oneman_on": {
+					"position": [1, 0, 0]
 				}
 			}
 		},
@@ -77,6 +95,12 @@
 						"1.5833": [0, 0, 1],
 						"2.0": [0, 0, 0]
 					}
+				},
+				"door_off": {
+					"position": [-1, 0, 0]
+				},
+				"door_oneman_on": {
+					"position": [1, 0, 0]
 				}
 			}
 		},
@@ -160,7 +184,7 @@
 		},
 		"animation.tcmb_prototype_1.open_all": {
 			"loop": "hold_on_last_frame",
-			"animation_length": 2.16667,
+			"animation_length": 2.1667,
 			"bones": {
 				"a_left": {
 					"position": {
@@ -189,6 +213,12 @@
 						"1.5833": [0, 0, -10],
 						"2.1667": [0, 0, -12]
 					}
+				},
+				"door_off": {
+					"position": [-1, 0, 0]
+				},
+				"door_on": {
+					"position": [1, 0, 0]
 				}
 			}
 		},
@@ -222,6 +252,12 @@
 						"1.5833": [0, 0, -1],
 						"2.0": [0, 0, 0]
 					}
+				},
+				"door_off": {
+					"position": [-1, 0, 0]
+				},
+				"door_on": {
+					"position": [1, 0, 0]
 				}
 			}
 		}

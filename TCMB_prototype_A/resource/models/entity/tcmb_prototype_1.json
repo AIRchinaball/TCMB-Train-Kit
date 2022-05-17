@@ -464,15 +464,15 @@
 							}
 						},
 						{
-							"origin": [-10, 11, -4],
-							"size": [20, 34, 4],
+							"origin": [-9, 11, -4],
+							"size": [18, 33, 4],
 							"uv": {
-								"north": {"uv": [785, 435], "uv_size": [20, 34]},
-								"east": {"uv": [785, 435], "uv_size": [20, 34]},
-								"south": {"uv": [785, 435], "uv_size": [20, 34]},
-								"west": {"uv": [1835, 617], "uv_size": [20, 68]},
-								"up": {"uv": [805, 469], "uv_size": [-20, -34]},
-								"down": {"uv": [805, 469], "uv_size": [-20, -34]}
+								"north": {"uv": [0, 0], "uv_size": [0, 0]},
+								"east": {"uv": [1752, 363], "uv_size": [16, 36]},
+								"south": {"uv": [0, 0], "uv_size": [0, 0]},
+								"west": {"uv": [1752, 363], "uv_size": [16, 36]},
+								"up": {"uv": [1853, 399], "uv_size": [-36, -16]},
+								"down": {"uv": [1853, 399], "uv_size": [-36, -16]}
 							}
 						}
 					]
@@ -829,6 +829,126 @@
 								"west": {"uv": [244, 241], "uv_size": [1264, 43]},
 								"up": {"uv": [0, 0], "uv_size": [0, 0]},
 								"down": {"uv": [0, 0], "uv_size": [0, 0]}
+							}
+						}
+					]
+				},
+				{
+					"name": "indicator",
+					"parent": "wall",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "brake_lamp",
+					"parent": "indicator",
+					"pivot": [0, 0, -2]
+				},
+				{
+					"name": "a_side",
+					"parent": "brake_lamp",
+					"pivot": [0, -1, 51]
+				},
+				{
+					"name": "brake_off",
+					"parent": "a_side",
+					"pivot": [0, -1, 51],
+					"cubes": [
+						{
+							"origin": [23, 45.75, -177],
+							"size": [1, 1.5, 1.5],
+							"uv": {
+								"north": {"uv": [1867, 393], "uv_size": [6, 6]},
+								"east": {"uv": [1867, 393], "uv_size": [6, 6]},
+								"south": {"uv": [1867, 393], "uv_size": [6, 6]},
+								"west": {"uv": [1867, 393], "uv_size": [6, 6]},
+								"up": {"uv": [1873, 399], "uv_size": [-6, -6]},
+								"down": {"uv": [1873, 399], "uv_size": [-6, -6]}
+							}
+						}
+					]
+				},
+				{
+					"name": "brake_on",
+					"parent": "a_side",
+					"pivot": [-1, -1, 51],
+					"cubes": [
+						{
+							"origin": [22, 45.75, -177],
+							"size": [1, 1.5, 1.5],
+							"uv": {
+								"north": {"uv": [1888, 393], "uv_size": [6, 6]},
+								"east": {"uv": [1888, 393], "uv_size": [6, 6]},
+								"south": {"uv": [1888, 393], "uv_size": [6, 6]},
+								"west": {"uv": [1888, 393], "uv_size": [6, 6]},
+								"up": {"uv": [1894, 399], "uv_size": [-6, -6]},
+								"down": {"uv": [1894, 399], "uv_size": [-6, -6]}
+							}
+						}
+					]
+				},
+				{
+					"name": "door_lamp",
+					"parent": "indicator",
+					"pivot": [0, 0, 2]
+				},
+				{
+					"name": "a_side2",
+					"parent": "door_lamp",
+					"pivot": [0, 0, 84]
+				},
+				{
+					"name": "door_off",
+					"parent": "a_side2",
+					"pivot": [23.5, 48, -143.75],
+					"cubes": [
+						{
+							"origin": [23, 46, -144.5],
+							"size": [1, 4, 1.5],
+							"uv": {
+								"north": {"uv": [1911, 399], "uv_size": [6, -16]},
+								"east": {"uv": [1911, 399], "uv_size": [6, -16]},
+								"south": {"uv": [1911, 399], "uv_size": [6, -16]},
+								"west": {"uv": [1911, 399], "uv_size": [6, -16]},
+								"up": {"uv": [1917, 383], "uv_size": [-6, 16]},
+								"down": {"uv": [1917, 383], "uv_size": [-6, 16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "door_on",
+					"parent": "a_side2",
+					"pivot": [22.5, 48, -143.75],
+					"cubes": [
+						{
+							"origin": [22, 46, -144.5],
+							"size": [1, 4, 1.5],
+							"uv": {
+								"north": {"uv": [1927, 399], "uv_size": [6, -16]},
+								"east": {"uv": [1927, 399], "uv_size": [6, -16]},
+								"south": {"uv": [1927, 399], "uv_size": [6, -16]},
+								"west": {"uv": [1927, 399], "uv_size": [6, -16]},
+								"up": {"uv": [1933, 383], "uv_size": [-6, 16]},
+								"down": {"uv": [1933, 383], "uv_size": [-6, 16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "door_oneman_on",
+					"parent": "a_side2",
+					"pivot": [22.5, 48, -143.75],
+					"cubes": [
+						{
+							"origin": [22, 46, -144.5],
+							"size": [1, 4, 1.5],
+							"uv": {
+								"north": {"uv": [1943, 399], "uv_size": [6, -16]},
+								"east": {"uv": [1943, 399], "uv_size": [6, -16]},
+								"south": {"uv": [1943, 399], "uv_size": [6, -16]},
+								"west": {"uv": [1943, 399], "uv_size": [6, -16]},
+								"up": {"uv": [1949, 383], "uv_size": [-6, 16]},
+								"down": {"uv": [1949, 383], "uv_size": [-6, 16]}
 							}
 						}
 					]
