@@ -4,8 +4,8 @@
 		{
 			"description": {
 				"identifier": "geometry.tcmb_prototype_1",
-				"texture_width": 3072,
-				"texture_height": 1727,
+				"texture_width": 4096,
+				"texture_height": 2304,
 				"visible_bounds_width": 79,
 				"visible_bounds_height": 40,
 				"visible_bounds_offset": [0, 4, 0]
