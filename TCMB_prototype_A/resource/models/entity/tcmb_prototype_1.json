@@ -497,9 +497,9 @@
 					]
 				},
 				{
-					"name": "front_c1",
+					"name": "foward",
 					"parent": "face",
-					"pivot": [0, 0, 0],
+					"pivot": [0, 19.375, -319.7],
 					"cubes": [
 						{
 							"origin": [-23, 17, -319.7],
@@ -516,9 +516,9 @@
 					]
 				},
 				{
-					"name": "back_c2",
+					"name": "backward",
 					"parent": "face",
-					"pivot": [0, 0, 0],
+					"pivot": [0, 19.375, -319.7],
 					"cubes": [
 						{
 							"origin": [-23, 17, -319.7],

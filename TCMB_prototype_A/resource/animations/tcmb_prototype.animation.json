@@ -260,6 +260,22 @@
 					"position": [1, 0, 0]
 				}
 			}
+		},
+		"animation.tcmb_prototype_1.foward": {
+			"loop": true,
+			"bones": {
+				"foward": {
+					"position": [0, 0, -0.6]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.backward": {
+			"loop": true,
+			"bones": {
+				"backward": {
+					"position": [0, 0, -0.6]
+				}
+			}
 		}
 	}
 }

@@ -1,5 +1,5 @@
 {
-    "format_version": "1.9.0",
+    "format_version": "1.18.0",
     "minecraft:client_entity": {
         "description": {
             "identifier": "tcmb_prototype:car1",
@@ -24,14 +24,14 @@
                 "oneman_open_b" : "animation.tcmb_prototype_1.oneman_open_b",
                 "oneman_close_b" : "animation.tcmb_prototype_1.oneman_close_b",
                 "open_all" : "animation.tcmb_prototype_1.open_all",
-                "close_all" : "animation.tcmb_prototype_1.close_all"
+                "close_all" : "animation.tcmb_prototype_1.close_all",
+                "foward" : "animation.tcmb_prototype_1.foward",
+                "backward" : "animation.tcmb_prototype_1.backward",
+                "tcmb_prototype_maku_controller": "controller.animation.tcmb_prototype.maku",
+                "tcmb_prototype_door_controller": "controller.animation.tcmb_prototype.door",
+                "tcmb_prototype_speed_controller": "controller.animation.tcmb_prototype.speed",
+                "tcmb_prototype_wiper_controller": "controller.animation.tcmb_prototype.wiper"
             },
-            "animation_controllers": [
-                {"tcmb_prototype_maku_controller": "controller.animation.tcmb_prototype.maku"},
-                {"tcmb_prototype_door_controller": "controller.animation.tcmb_prototype.door"},
-                {"tcmb_prototype_speed_controller": "controller.animation.tcmb_prototype.speed"},
-                {"tcmb_prototype_wiper_controller": "controller.animation.tcmb_prototype.wiper"}
-            ],
             "render_controllers": [
                 "controller.render.phantom",
                 "controller.render.glass"
