@@ -1360,6 +1360,118 @@
 				}
 			}
 		},
+		"animation.tcmb_prototype_1.atc0": {
+			"loop": true,
+			"bones": {
+				"atc_0": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.atc10": {
+			"loop": true,
+			"bones": {
+				"atc_10": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.atc20": {
+			"loop": true,
+			"bones": {
+				"atc_20": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.atc30": {
+			"loop": true,
+			"bones": {
+				"atc_30": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.atc40": {
+			"loop": true,
+			"bones": {
+				"atc_40": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.atc50": {
+			"loop": true,
+			"bones": {
+				"atc_50": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.atc60": {
+			"loop": true,
+			"bones": {
+				"atc_60": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.atc70": {
+			"loop": true,
+			"bones": {
+				"atc_70": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.atc80": {
+			"loop": true,
+			"bones": {
+				"atc_80": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.atc90": {
+			"loop": true,
+			"bones": {
+				"atc_90": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.atc100": {
+			"loop": true,
+			"bones": {
+				"atc_100": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.atc110": {
+			"loop": true,
+			"bones": {
+				"atc_110": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.atc120": {
+			"loop": true,
+			"bones": {
+				"atc_120": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.atc130": {
+			"loop": true,
+			"bones": {
+				"atc_130": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
 		"animation.tcmb_prototype_1.dest1": {
 			"loop": true,
 			"animation_length": 6,
@@ -1374,7 +1486,7 @@
 						"4.1": [0, 0, 0]
 					}
 				},
-				"1gousya_a": {
+				"gousya_a": {
 					"position": {
 						"0.0": [0, 0, 0],
 						"3.9": [0, 0, 0],
@@ -1388,12 +1500,775 @@
 						"4.1": [0, 0, 0]
 					}
 				},
-				"1gousya_b": {
+				"gousya_b": {
 					"position": {
 						"0.0": [0, 0, 0],
 						"3.9": [0, 0, 0],
 						"4.0": [-0.5, 0, 0]
 					}
+				},
+				"dest_1": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest2": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest2": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_2": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_2": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_2": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest3": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest3": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_3": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_3": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_3": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest4": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest4": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_4": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_4": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_4": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest5": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest5": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_5": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_5": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_5": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest6": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest6": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_6": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_6": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_6": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest7": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest7": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_7": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_7": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_7": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest8": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest8": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_8": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_8": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_8": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest9": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest9": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_9": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_9": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_9": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest10": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest10": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_10": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_10": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_10": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest11": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest11": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_11": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_11": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_11": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest12": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest12": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_12": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_12": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_12": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest13": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest13": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_13": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_13": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_13": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest14": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest14": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_14": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_14": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_14": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest15": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest15": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_15": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_15": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_15": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest16": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest16": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_16": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_16": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_16": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest17": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest17": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_17": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_17": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_17": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest18": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest18": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_18": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_18": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_18": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest19": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest19": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_19": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_19": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_19": {
+					"position": [0, 0, 0.5]
+				}
+			}
+		},
+		"animation.tcmb_prototype_1.dest20": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"dest20": {
+					"position": [0, 0, -0.5]
+				},
+				"dest_a_20": {
+					"position": {
+						"0.0": [0.5, 0, 0],
+						"4.0": [0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_a": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [0.5, 0, 0]
+					}
+				},
+				"dest_b_20": {
+					"position": {
+						"0.0": [-0.5, 0, 0],
+						"4.0": [-0.5, 0, 0],
+						"4.1": [0, 0, 0]
+					}
+				},
+				"gousya_b": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"3.9": [0, 0, 0],
+						"4.0": [-0.5, 0, 0]
+					}
+				},
+				"dest_20": {
+					"position": [0, 0, 0.5]
 				}
 			}
 		}

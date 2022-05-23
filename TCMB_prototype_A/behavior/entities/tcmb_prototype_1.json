@@ -7,7 +7,1120 @@
             "is_summonable": true,
             "is_experimental": false
         },
+        "component_groups": {
+            "0km": {
+                "minecraft:variant": {
+                    "value": 0
+                }
+            },
+            "1km": {
+                "minecraft:variant": {
+                    "value": 1
+                }
+            },
+            "2km": {
+                "minecraft:variant": {
+                    "value": 2
+                }
+            },
+            "3km": {
+                "minecraft:variant": {
+                    "value": 3
+                }
+            },
+            "4km": {
+                "minecraft:variant": {
+                    "value": 4
+                }
+            },
+            "5km": {
+                "minecraft:variant": {
+                    "value": 5
+                }
+            },
+            "6km": {
+                "minecraft:variant": {
+                    "value": 6
+                }
+            },
+            "7km": {
+                "minecraft:variant": {
+                    "value": 7
+                }
+            },
+            "8km": {
+                "minecraft:variant": {
+                    "value": 8
+                }
+            },
+            "9km": {
+                "minecraft:variant": {
+                    "value": 9
+                }
+            },
+            "10km": {
+                "minecraft:variant": {
+                    "value": 10
+                }
+            },
+            "11km": {
+                "minecraft:variant": {
+                    "value": 11
+                }
+            },
+            "12km": {
+                "minecraft:variant": {
+                    "value": 12
+                }
+            },
+            "13km": {
+                "minecraft:variant": {
+                    "value": 13
+                }
+            },
+            "14km": {
+                "minecraft:variant": {
+                    "value": 14
+                }
+            },
+            "15km": {
+                "minecraft:variant": {
+                    "value": 15
+                }
+            },
+            "16km": {
+                "minecraft:variant": {
+                    "value": 16
+                }
+            },
+            "17km": {
+                "minecraft:variant": {
+                    "value": 17
+                }
+            },
+            "18km": {
+                "minecraft:variant": {
+                    "value": 18
+                }
+            },
+            "19km": {
+                "minecraft:variant": {
+                    "value": 19
+                }
+            },
+            "20km": {
+                "minecraft:variant": {
+                    "value": 20
+                }
+            },
+            "21km": {
+                "minecraft:variant": {
+                    "value": 21
+                }
+            },
+            "22km": {
+                "minecraft:variant": {
+                    "value": 22
+                }
+            },
+            "23km": {
+                "minecraft:variant": {
+                    "value": 23
+                }
+            },
+            "24km": {
+                "minecraft:variant": {
+                    "value": 24
+                }
+            },
+            "25km": {
+                "minecraft:variant": {
+                    "value": 25
+                }
+            },
+            "26km": {
+                "minecraft:variant": {
+                    "value": 26
+                }
+            },
+            "27km": {
+                "minecraft:variant": {
+                    "value": 27
+                }
+            },
+            "28km": {
+                "minecraft:variant": {
+                    "value": 28
+                }
+            },
+            "29km": {
+                "minecraft:variant": {
+                    "value": 29
+                }
+            },
+            "30km": {
+                "minecraft:variant": {
+                    "value": 30
+                }
+            },
+            "31km": {
+                "minecraft:variant": {
+                    "value": 31
+                }
+            },
+            "32km": {
+                "minecraft:variant": {
+                    "value": 32
+                }
+            },
+            "33km": {
+                "minecraft:variant": {
+                    "value": 33
+                }
+            },
+            "34km": {
+                "minecraft:variant": {
+                    "value": 34
+                }
+            },
+            "35km": {
+                "minecraft:variant": {
+                    "value": 35
+                }
+            },
+            "36km": {
+                "minecraft:variant": {
+                    "value": 36
+                }
+            },
+            "37km": {
+                "minecraft:variant": {
+                    "value": 37
+                }
+            },
+            "38km": {
+                "minecraft:variant": {
+                    "value": 38
+                }
+            },
+            "39km": {
+                "minecraft:variant": {
+                    "value": 39
+                }
+            },
+            "40km": {
+                "minecraft:variant": {
+                    "value": 40
+                }
+            },
+            "41km": {
+                "minecraft:variant": {
+                    "value": 41
+                }
+            },
+            "42km": {
+                "minecraft:variant": {
+                    "value": 42
+                }
+            },
+            "43km": {
+                "minecraft:variant": {
+                    "value": 43
+                }
+            },
+            "44km": {
+                "minecraft:variant": {
+                    "value": 44
+                }
+            },
+            "45km": {
+                "minecraft:variant": {
+                    "value": 45
+                }
+            },
+            "46km": {
+                "minecraft:variant": {
+                    "value": 46
+                }
+            },
+            "47km": {
+                "minecraft:variant": {
+                    "value": 47
+                }
+            },
+            "48km": {
+                "minecraft:variant": {
+                    "value": 48
+                }
+            },
+            "49km": {
+                "minecraft:variant": {
+                    "value": 49
+                }
+            },
+            "50km": {
+                "minecraft:variant": {
+                    "value": 50
+                }
+            },
+            "51km": {
+                "minecraft:variant": {
+                    "value": 51
+                }
+            },
+            "52km": {
+                "minecraft:variant": {
+                    "value": 52
+                }
+            },
+            "53km": {
+                "minecraft:variant": {
+                    "value": 53
+                }
+            },
+            "54km": {
+                "minecraft:variant": {
+                    "value": 54
+                }
+            },
+            "55km": {
+                "minecraft:variant": {
+                    "value": 55
+                }
+            },
+            "56km": {
+                "minecraft:variant": {
+                    "value": 56
+                }
+            },
+            "57km": {
+                "minecraft:variant": {
+                    "value": 57
+                }
+            },
+            "58km": {
+                "minecraft:variant": {
+                    "value": 58
+                }
+            },
+            "59km": {
+                "minecraft:variant": {
+                    "value": 59
+                }
+            },
+            "60km": {
+                "minecraft:variant": {
+                    "value": 60
+                }
+            },
+            "61km": {
+                "minecraft:variant": {
+                    "value": 61
+                }
+            },
+            "62km": {
+                "minecraft:variant": {
+                    "value": 62
+                }
+            },
+            "63km": {
+                "minecraft:variant": {
+                    "value": 63
+                }
+            },
+            "64km": {
+                "minecraft:variant": {
+                    "value": 64
+                }
+            },
+            "65km": {
+                "minecraft:variant": {
+                    "value": 65
+                }
+            },
+            "66km": {
+                "minecraft:variant": {
+                    "value": 66
+                }
+            },
+            "67km": {
+                "minecraft:variant": {
+                    "value": 67
+                }
+            },
+            "68km": {
+                "minecraft:variant": {
+                    "value": 68
+                }
+            },
+            "69km": {
+                "minecraft:variant": {
+                    "value": 69
+                }
+            },
+            "70km": {
+                "minecraft:variant": {
+                    "value": 70
+                }
+            },
+            "71km": {
+                "minecraft:variant": {
+                    "value": 71
+                }
+            },
+            "72km": {
+                "minecraft:variant": {
+                    "value": 72
+                }
+            },
+            "73km": {
+                "minecraft:variant": {
+                    "value": 73
+                }
+            },
+            "74km": {
+                "minecraft:variant": {
+                    "value": 74
+                }
+            },
+            "75km": {
+                "minecraft:variant": {
+                    "value": 75
+                }
+            },
+            "76km": {
+                "minecraft:variant": {
+                    "value": 76
+                }
+            },
+            "77km": {
+                "minecraft:variant": {
+                    "value": 77
+                }
+            },
+            "78km": {
+                "minecraft:variant": {
+                    "value": 78
+                }
+            },
+            "79km": {
+                "minecraft:variant": {
+                    "value": 79
+                }
+            },
+            "80km": {
+                "minecraft:variant": {
+                    "value": 80
+                }
+            },
+            "81km": {
+                "minecraft:variant": {
+                    "value": 81
+                }
+            },
+            "82km": {
+                "minecraft:variant": {
+                    "value": 82
+                }
+            },
+            "83km": {
+                "minecraft:variant": {
+                    "value": 83
+                }
+            },
+            "84km": {
+                "minecraft:variant": {
+                    "value": 84
+                }
+            },
+            "85km": {
+                "minecraft:variant": {
+                    "value": 85
+                }
+            },
+            "86km": {
+                "minecraft:variant": {
+                    "value": 86
+                }
+            },
+            "87km": {
+                "minecraft:variant": {
+                    "value": 87
+                }
+            },
+            "88km": {
+                "minecraft:variant": {
+                    "value": 88
+                }
+            },
+            "89km": {
+                "minecraft:variant": {
+                    "value": 89
+                }
+            },
+            "90km": {
+                "minecraft:variant": {
+                    "value": 90
+                }
+            },
+            "91km": {
+                "minecraft:variant": {
+                    "value": 91
+                }
+            },
+            "92km": {
+                "minecraft:variant": {
+                    "value": 92
+                }
+            },
+            "93km": {
+                "minecraft:variant": {
+                    "value": 93
+                }
+            },
+            "94km": {
+                "minecraft:variant": {
+                    "value": 94
+                }
+            },
+            "95km": {
+                "minecraft:variant": {
+                    "value": 95
+                }
+            },
+            "96km": {
+                "minecraft:variant": {
+                    "value": 96
+                }
+            },
+            "97km": {
+                "minecraft:variant": {
+                    "value": 97
+                }
+            },
+            "98km": {
+                "minecraft:variant": {
+                    "value": 98
+                }
+            },
+            "99km": {
+                "minecraft:variant": {
+                    "value": 99
+                }
+            },
+            "100km": {
+                "minecraft:variant": {
+                    "value": 100
+                }
+            },
+            "101km": {
+                "minecraft:variant": {
+                    "value": 101
+                }
+            },
+            "102km": {
+                "minecraft:variant": {
+                    "value": 102
+                }
+            },
+            "103km": {
+                "minecraft:variant": {
+                    "value": 103
+                }
+            },
+            "104km": {
+                "minecraft:variant": {
+                    "value": 104
+                }
+            },
+            "105km": {
+                "minecraft:variant": {
+                    "value": 105
+                }
+            },
+            "106km": {
+                "minecraft:variant": {
+                    "value": 106
+                }
+            },
+            "107km": {
+                "minecraft:variant": {
+                    "value": 107
+                }
+            },
+            "108km": {
+                "minecraft:variant": {
+                    "value": 108
+                }
+            },
+            "109km": {
+                "minecraft:variant": {
+                    "value": 109
+                }
+            },
+            "110km": {
+                "minecraft:variant": {
+                    "value": 110
+                }
+            },
+            "111km": {
+                "minecraft:variant": {
+                    "value": 111
+                }
+            },
+            "112km": {
+                "minecraft:variant": {
+                    "value": 112
+                }
+            },
+            "113km": {
+                "minecraft:variant": {
+                    "value": 113
+                }
+            },
+            "114km": {
+                "minecraft:variant": {
+                    "value": 114
+                }
+            },
+            "115km": {
+                "minecraft:variant": {
+                    "value": 115
+                }
+            },
+            "116km": {
+                "minecraft:variant": {
+                    "value": 116
+                }
+            },
+            "117km": {
+                "minecraft:variant": {
+                    "value": 117
+                }
+            },
+            "118km": {
+                "minecraft:variant": {
+                    "value": 118
+                }
+            },
+            "119km": {
+                "minecraft:variant": {
+                    "value": 119
+                }
+            },
+            "120km": {
+                "minecraft:variant": {
+                    "value": 120
+                }
+            },
+            "121km": {
+                "minecraft:variant": {
+                    "value": 121
+                }
+            },
+            "122km": {
+                "minecraft:variant": {
+                    "value": 122
+                }
+            },
+            "123km": {
+                "minecraft:variant": {
+                    "value": 123
+                }
+            },
+            "124km": {
+                "minecraft:variant": {
+                    "value": 124
+                }
+            },
+            "125km": {
+                "minecraft:variant": {
+                    "value": 125
+                }
+            },
+            "126km": {
+                "minecraft:variant": {
+                    "value": 126
+                }
+            },
+            "127km": {
+                "minecraft:variant": {
+                    "value": 127
+                }
+            },
+            "128km": {
+                "minecraft:variant": {
+                    "value": 128
+                }
+            },
+            "129km": {
+                "minecraft:variant": {
+                    "value": 129
+                }
+            },
+            "130km": {
+                "minecraft:variant": {
+                    "value": 130
+                }
+            },
+            "close_all": {
+                "minecraft:variant": {
+                    "value": 1000
+                }
+            },
+            "open_all": {
+                "minecraft:variant": {
+                    "value": 1001
+                }
+            },
+            "close_a": {
+                "minecraft:variant": {
+                    "value": 1010
+                }
+            },
+            "open_a": {
+                "minecraft:variant": {
+                    "value": 1011
+                }
+            },
+            "open_oneman_a": {
+                "minecraft:variant": {
+                    "value": 1012
+                }
+            },
+            "close_b": {
+                "minecraft:variant": {
+                    "value": 1020
+                }
+            },
+            "open_b": {
+                "minecraft:variant": {
+                    "value": 1021
+                }
+            },
+            "open_oneman_b": {
+                "minecraft:variant": {
+                    "value": 1022
+                }
+            },
+            "atacs_on": {
+                "minecraft:can_climb": {}
+            },
+            "atacs_off": {
+                "minecraft:variant": {
+                    "value": 1500
+                }
+            },
+            "datc_on": {
+                "minecraft:can_fly": {}
+            },
+            "datc_off": {
+                "minecraft:variant": {
+                    "value": 1501
+                }
+            },
+            "ato_on": {
+                "minecraft:can_power_jump": {}
+            },
+            "ato_off": {
+                "minecraft:variant": {
+                    "value": 1502
+                }
+            },
+            "tasc_valid": {
+                "minecraft:is_baby": {}
+            },
+            "tasc_invalid": {
+                "minecraft:variant": {
+                    "value": 1503
+                }
+            },
+            "oneman_yes": {
+                "minecraft:is_chested": {}
+            },
+            "oneman_no": {
+                "minecraft:variant": {
+                    "value": 1504
+                }
+            },
+            "atc_off": {
+                "minecraft:variant": {
+                    "value": 1505
+                }
+            },
+            "tasc_on": {
+                "minecraft:is_saddled": {}
+            },
+            "tasc_off": {
+                "minecraft:variant": {
+                    "value": 1506
+                }
+            },
+            "teiiti_yes": {
+                "minecraft:is_sheared": {}
+            },
+            "teiiti_no": {
+                "minecraft:variant": {
+                    "value": 1507
+                }
+            },
+            "voltage_a": {
+                "minecraft:is_stackable": {}
+            },
+            "voltage_b": {
+                "minecraft:is_tamed": {}
+            },
+            "voltage_off": {
+                "minecraft:variant": {
+                    "value": 1508
+                }
+            },
+            "dest1": {
+                "minecraft:mark_variant": {
+                    "value": 1
+                }
+            },
+            "dest2": {
+                "minecraft:mark_variant": {
+                    "value": 2
+                }
+            },
+            "dest3": {
+                "minecraft:mark_variant": {
+                    "value": 3
+                }
+            },
+            "dest4": {
+                "minecraft:mark_variant": {
+                    "value": 4
+                }
+            },
+            "dest5": {
+                "minecraft:mark_variant": {
+                    "value": 5
+                }
+            },
+            "dest6": {
+                "minecraft:mark_variant": {
+                    "value": 6
+                }
+            },
+            "dest7": {
+                "minecraft:mark_variant": {
+                    "value": 7
+                }
+            },
+            "dest8": {
+                "minecraft:mark_variant": {
+                    "value": 8
+                }
+            },
+            "dest9": {
+                "minecraft:mark_variant": {
+                    "value": 9
+                }
+            },
+            "dest10": {
+                "minecraft:mark_variant": {
+                    "value": 10
+                }
+            },
+            "dest11": {
+                "minecraft:mark_variant": {
+                    "value": 11
+                }
+            },
+            "dest12": {
+                "minecraft:mark_variant": {
+                    "value": 12
+                }
+            },
+            "dest13": {
+                "minecraft:mark_variant": {
+                    "value": 13
+                }
+            },
+            "dest14": {
+                "minecraft:mark_variant": {
+                    "value": 14
+                }
+            },
+            "dest15": {
+                "minecraft:mark_variant": {
+                    "value": 15
+                }
+            },
+            "dest16": {
+                "minecraft:mark_variant": {
+                    "value": 16
+                }
+            },
+            "dest17": {
+                "minecraft:mark_variant": {
+                    "value": 17
+                }
+            },
+            "dest18": {
+                "minecraft:mark_variant": {
+                    "value": 18
+                }
+            },
+            "dest19": {
+                "minecraft:mark_variant": {
+                    "value": 19
+                }
+            },
+            "dest20": {
+                "minecraft:mark_variant": {
+                    "value": 20
+                }
+            }
+        },
         "components": {
+            "minecraft:environment_sensor": {
+                "triggers": [
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest1"
+                                }
+                            ]
+                        },
+                        "event": "dest1"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest2"
+                                }
+                            ]
+                        },
+                        "event": "dest2"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest3"
+                                }
+                            ]
+                        },
+                        "event": "dest3"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest4"
+                                }
+                            ]
+                        },
+                        "event": "dest4"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest5"
+                                }
+                            ]
+                        },
+                        "event": "dest5"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest6"
+                                }
+                            ]
+                        },
+                        "event": "dest6"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest7"
+                                }
+                            ]
+                        },
+                        "event": "dest7"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest8"
+                                }
+                            ]
+                        },
+                        "event": "dest8"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest9"
+                                }
+                            ]
+                        },
+                        "event": "dest9"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest10"
+                                }
+                            ]
+                        },
+                        "event": "dest10"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest11"
+                                }
+                            ]
+                        },
+                        "event": "dest11"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest12"
+                                }
+                            ]
+                        },
+                        "event": "dest12"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest13"
+                                }
+                            ]
+                        },
+                        "event": "dest13"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest14"
+                                }
+                            ]
+                        },
+                        "event": "dest14"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest15"
+                                }
+                            ]
+                        },
+                        "event": "dest15"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest16"
+                                }
+                            ]
+                        },
+                        "event": "dest16"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest17"
+                                }
+                            ]
+                        },
+                        "event": "dest17"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest18"
+                                }
+                            ]
+                        },
+                        "event": "dest18"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest19"
+                                }
+                            ]
+                        },
+                        "event": "dest19"
+                    },
+                    {
+                        "filters": {
+                            "all_of": [
+                                {
+                                    "test": "has_tag",
+                                    "operator": "equals",
+                                    "value": "dest20"
+                                }
+                            ]
+                        },
+                        "event": "dest20"
+                    }
+                ]
+            },
             "minecraft:nameable": {},
             "minecraft:type_family": {
                 "family": [
@@ -24,6 +1137,268 @@
                 "value": 1
             },
             "minecraft:physics": {}
+        },
+        "events": {
+            "dest1": {
+                "remove": {
+                    "component_groups": [
+                        "dest20",
+                        "dest2"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest1"
+                    ]
+                }
+            },
+            "dest2": {
+                "remove": {
+                    "component_groups": [
+                        "dest1",
+                        "dest3"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest2"
+                    ]
+                }
+            },
+            "dest3": {
+                "remove": {
+                    "component_groups": [
+                        "dest2",
+                        "dest4"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest3"
+                    ]
+                }
+            },
+            "dest4": {
+                "remove": {
+                    "component_groups": [
+                        "dest3",
+                        "dest5"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest4"
+                    ]
+                }
+            },
+            "dest5": {
+                "remove": {
+                    "component_groups": [
+                        "dest4",
+                        "dest6"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest5"
+                    ]
+                }
+            },
+            "dest6": {
+                "remove": {
+                    "component_groups": [
+                        "dest5",
+                        "dest7"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest6"
+                    ]
+                }
+            },
+            "dest7": {
+                "remove": {
+                    "component_groups": [
+                        "dest6",
+                        "dest8"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest7"
+                    ]
+                }
+            },
+            "dest8": {
+                "remove": {
+                    "component_groups": [
+                        "dest7",
+                        "dest9"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest8"
+                    ]
+                }
+            },
+            "dest9": {
+                "remove": {
+                    "component_groups": [
+                        "dest8",
+                        "dest10"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest9"
+                    ]
+                }
+            },
+            "dest10": {
+                "remove": {
+                    "component_groups": [
+                        "dest9",
+                        "dest11"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest10"
+                    ]
+                }
+            },
+            "dest11": {
+                "remove": {
+                    "component_groups": [
+                        "dest10",
+                        "dest12"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest11"
+                    ]
+                }
+            },
+            "dest12": {
+                "remove": {
+                    "component_groups": [
+                        "dest11",
+                        "dest13"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest12"
+                    ]
+                }
+            },
+            "dest13": {
+                "remove": {
+                    "component_groups": [
+                        "dest12",
+                        "dest14"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest13"
+                    ]
+                }
+            },
+            "dest14": {
+                "remove": {
+                    "component_groups": [
+                        "dest13",
+                        "dest15"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest14"
+                    ]
+                }
+            },
+            "dest15": {
+                "remove": {
+                    "component_groups": [
+                        "dest14",
+                        "dest16"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest15"
+                    ]
+                }
+            },
+            "dest16": {
+                "remove": {
+                    "component_groups": [
+                        "dest15",
+                        "dest17"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest16"
+                    ]
+                }
+            },
+            "dest17": {
+                "remove": {
+                    "component_groups": [
+                        "dest16",
+                        "dest18"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest17"
+                    ]
+                }
+            },
+            "dest18": {
+                "remove": {
+                    "component_groups": [
+                        "dest17",
+                        "dest19"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest18"
+                    ]
+                }
+            },
+            "dest19": {
+                "remove": {
+                    "component_groups": [
+                        "dest18",
+                        "dest20"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest19"
+                    ]
+                }
+            },
+            "dest20": {
+                "remove": {
+                    "component_groups": [
+                        "dest19",
+                        "dest1"
+                    ]
+                },
+                "add": {
+                    "component_groups": [
+                        "dest20"
+                    ]
+                }
+            }
         }
     }
 }

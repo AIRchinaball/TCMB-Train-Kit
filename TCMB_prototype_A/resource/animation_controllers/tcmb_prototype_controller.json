@@ -1,16 +1,34 @@
 {
     "format_version": "1.18.0",
     "animation_controllers": {
-        "controller.animation.tcmb_prototype.maku": {
+        "controller.animation.tcmb_prototype.destination": {
             "initial_state": "default",
             "states": {
                 "default": {
                     "animations": [
                         {
-                            
+                            "dest1": "query.mark_variant==1",
+                            "dest2": "query.mark_variant==2",
+                            "dest3": "query.mark_variant==3",
+                            "dest4": "query.mark_variant==4",
+                            "dest5": "query.mark_variant==5",
+                            "dest6": "query.mark_variant==6",
+                            "dest7": "query.mark_variant==7",
+                            "dest8": "query.mark_variant==8",
+                            "dest9": "query.mark_variant==9",
+                            "dest10": "query.mark_variant==10",
+                            "dest11": "query.mark_variant==11",
+                            "dest12": "query.mark_variant==12",
+                            "dest13": "query.mark_variant==13",
+                            "dest14": "query.mark_variant==14",
+                            "dest15": "query.mark_variant==15",
+                            "dest16": "query.mark_variant==16",
+                            "dest17": "query.mark_variant==17",
+                            "dest18": "query.mark_variant==18",
+                            "dest19": "query.mark_variant==19",
+                            "dest20": "query.mark_variant==20"
                         }
                     ]
-
                 }
             }
         },
