@@ -31,40 +31,6 @@
                     ]
                 }
             }
-        },
-        "controller.animation.tcmb_prototype.door": {
-            "initial_state": "default",
-            "states": {
-                "default": {
-                    "animations": [
-                        
-                    ],
-                    "transitions": [
-                        
-                    ]
-                }
-            }
-        },
-        "controller.animation.tcmb_prototype.speed": {
-            "initial_state": "default",
-            "states": {
-                "default": {
-                    "animations": [
-                        
-                    ]
-                }
-            }
-        },
-        "controller.animation.tcmb_prototype.wiper": {
-            "initial_state": "default",
-            "states": {
-                "default": {
-                    "animations": [
-                        
-                    ]
-
-                }
-            }
         }
     }
 }

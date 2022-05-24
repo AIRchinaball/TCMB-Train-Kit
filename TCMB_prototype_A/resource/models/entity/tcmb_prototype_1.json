@@ -4104,11 +4104,6 @@
 					]
 				},
 				{
-					"name": "bone",
-					"parent": "seat_a_1",
-					"pivot": [0, 7, 0]
-				},
-				{
 					"name": "seat_a_2",
 					"parent": "seat",
 					"pivot": [0, 7, 80]

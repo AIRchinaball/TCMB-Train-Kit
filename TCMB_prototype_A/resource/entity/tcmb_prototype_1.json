@@ -1,5 +1,5 @@
 {
-    "format_version": "1.18.0",
+    "format_version": "1.8.0",
     "minecraft:client_entity": {
         "description": {
             "identifier": "tcmb_prototype:car1",
@@ -191,12 +191,11 @@
                 "dest17" : "animation.tcmb_prototype_1.dest17",
                 "dest18" : "animation.tcmb_prototype_1.dest18",
                 "dest19" : "animation.tcmb_prototype_1.dest19",
-                "dest20" : "animation.tcmb_prototype_1.dest20",
-                "tcmb_prototype_dest_controller": "controller.animation.tcmb_prototype.destination",
-                "tcmb_prototype_door_controller": "controller.animation.tcmb_prototype.door",
-                "tcmb_prototype_speed_controller": "controller.animation.tcmb_prototype.speed",
-                "tcmb_prototype_wiper_controller": "controller.animation.tcmb_prototype.wiper"
+                "dest20" : "animation.tcmb_prototype_1.dest20"
             },
+            "animation_controllers": [
+                {"tcmb_prototype_dest_controller": "controller.animation.tcmb_prototype.destination"}
+            ],
             "render_controllers": [
                 "controller.render.phantom",
                 "controller.render.glass"
