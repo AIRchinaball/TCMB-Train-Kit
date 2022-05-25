@@ -12,7 +12,7 @@ TCMB Train KitはMITライセンスが適用されます。使用条件等に関
 サーバーに入れる場合はライセンス表記は任意です。
 表記したい場合は、
 ```
-TCMB
+TCMB Train Kit
 ©TCMB Project
 This addon is licensed under the MIT
 Source code:https://github.com/TCMB-Project/TCMB-Train-Kit/blob/main/LICENSE
