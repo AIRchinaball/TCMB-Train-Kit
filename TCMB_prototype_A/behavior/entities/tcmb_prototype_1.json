@@ -1142,8 +1142,25 @@
             "dest1": {
                 "remove": {
                     "component_groups": [
-                        "dest20",
-                        "dest2"
+                        "dest2",
+                        "dest3",
+                        "dest4",
+                        "dest5",
+                        "dest6",
+                        "dest7",
+                        "dest8",
+                        "dest9",
+                        "dest10",
+                        "dest11",
+                        "dest12",
+                        "dest13",
+                        "dest14",
+                        "dest15",
+                        "dest16",
+                        "dest17",
+                        "dest18",
+                        "dest19",
+                        "dest20"
                     ]
                 },
                 "add": {
